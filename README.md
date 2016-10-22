@@ -95,3 +95,7 @@ title: python-open-source-projects
 |  17  |   schedule |     https://github.com/dbader/schedule   |     可以理解为用python实现的crontab   |
 | 18 | java2python  | https://github.com/natural/java2python|  将java源码转换成python的工具|
 | 19 |  newBlog | https://github.com/BeginMan/newBlog|  一个用python＋ django开发的个人博客网站|
+| 20  |  vim-config-python-ide | https://github.com/skyl/vim-config-python-ide  | 打造vim 下的python IDE.操作简单， 只需拷贝对应的文件到指定目录即可|
+| 21  |  awesome-python | https://github.com/vinta/awesome-python  | Python开源项目汇总|
+| 22  | huxley  |  https://github.com/facebookarchive/huxley| facebook开源的的自动化截图软件，主要用于web的自动化测试｜
+|23 | caravel   |    https://github.com/airbnb/caravel    |  airbnb开源的一个数据分析和可视化工具，基于flask web框架构建 |   
