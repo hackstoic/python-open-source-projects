@@ -64,9 +64,9 @@ title: python-open-source-projects
 
 #  安全工具
 |序号|名称|项目地址|简介|
-| ----- | ----- | -----  | -----  |
+| ----- | ----- | -----  | -----  |wyproxy
 |     1|   mitmproxy |     https://github.com/mitmproxy/mitmproxy   |    中间人攻击工具    |
-
+| 2 | wyproxy| https://github.com/ring04h/wyproxy  |HTTP/HTTPS, Socks5代理服务器, 并可以将网络请求记录保存到后台数据库.帮助安全测试人员更加便捷的发现(客户端/APP/网页)中隐藏的接口或资源。同时支持流量handle回放数据功能,在HTTP Header中插入 移动/联通/电信 营业厅的免流量域名头, 实现免流量代理上网。  |
 #  持续集成部署
 |序号|名称|项目地址|简介|
 | ----- | ----- | -----  | -----  |
